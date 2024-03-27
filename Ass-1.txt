@@ -1,0 +1,22 @@
+Assignment (Module - 1)git
+
+What is Software?
+-  "software" refers to any program or application written using the Python programming language. 
+   Python is a versatile and powerful programming language that is widely used in various domains, 
+   including web development, data analysis, machine learning, artificial intelligence, scientific computing, 
+   automation, and more.
+
+2. What are the types of Applications?
+-  Web Applications,
+   Desktop Application 
+   System Application
+
+3. What is programming?   
+- Programming in Python refers to the process of writing instructions or code 
+  using the Python programming language to create software, applications, scripts,
+  or algorithms that perform specific tasks or solve particular problems. Python is a high-level, 
+  interpreted language known for its simplicity, readability, and versatility.  
+
+4. What is Python?
+-  Python is a high-level, interpreted programming language known for its simplicity and readability. 
+   It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
